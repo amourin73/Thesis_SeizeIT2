@@ -1,0 +1,18 @@
+Metric,Value
+Subjects Used,40
+Selected Threshold,0.5566
+Threshold Mode,balanced
+Accuracy,86.05%
+Macro Precision,86.15%
+Macro Recall,86.05%
+Macro F1-score,86.04%
+Weighted F1-score,86.04%
+Preictal Precision,84.24%
+Preictal Recall,88.70%
+Preictal F1-score,86.41%
+AUROC,0.9321
+AUPRC,0.9155
+Correct Interictal,834
+False Preictal Alarms,166
+Missed Preictal Windows,113
+Correct Preictal,887
